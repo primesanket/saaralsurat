@@ -1,0 +1,128 @@
+
+
+.content-description {
+    height: 120px;
+    overflow: auto;
+}
+
+/* .info-wrap {
+    display: flex;
+} */
+
+.info-wrap img {
+    margin: auto;
+}
+.info-wrap a {
+    margin: auto;
+}
+h3.doctor-name {
+    height: 19px;
+}
+
+.info-wrap{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.vc_row.contact_form_11 {
+    display: block !important;
+}
+/* .page-id-634 .vc_row {
+    display: none;
+} */
+iframe#contc_map_1 {
+    width: 100%;
+    height: 300px;
+}
+
+.contc_map_1_block {
+    margin-top: 28px;
+}
+
+
+
+
+
+@media all and (min-width: 320px) and (max-width: 767px) {
+    .vc_custom_1483084156948 {
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+    }
+    .iw-item-info.style3 .item-info-content{
+        padding: 34px 15px 34px;
+    }
+    .iw-item-info.style3 .item-info-content .title {
+        font-size: 28px;
+        padding-bottom: 10px;
+        margin: 0 0 25px;
+    }
+    .cat-icon img {
+        height: 30px;
+        object-fit: contain;
+    }
+    .cat-icon {
+        display: flex;
+        padding-bottom: 28px;
+    }
+    .iwh-title{
+        font-size: 25px;
+        line-height: 1.2;
+    }
+    .iw-department.style2 .department-item-inner {
+        padding: 0 15px 30px 15px;
+    }
+    .iw-video-html.style1 .play-button, .iw-video-html.style1 .open-popup-btn{
+        width: 56px;
+        height: 56px;
+        background-size: 20px 20px;
+    }
+    .iw-video-html.style1 .video-poster {
+        height: 321px !important;
+    }
+    .iw-department.style2 h3.title{
+        margin-bottom: 1px;
+    }
+
+
+}
+
+@media all and (min-width: 481px) and (max-width: 767px) {
+ 
+}
+
+@media all and (min-width: 768px) and (max-width: 980px) {
+    .iw-item-info.style2 .title {
+        font-size: 17px;
+    }
+}
+
+@media all and (min-width: 981px) and (max-width: 1024px) {
+    .content-description {
+        height: 118px;
+    }
+
+}
+
+@media all and (min-width: 1025px) and (max-width: 1140px) {
+    .content-description {
+        height: 146px;
+    }
+
+}
+
+@media all and (min-width: 1141px) and (max-width: 1280px) {
+    .content-description {
+        height: 144px;
+    }
+  
+}
+
+@media all and (min-width: 1281px) and (max-width: 1440px) {
+
+}
+
+@media all and (min-width: 1441px) and (max-width: 1680px) {
+}
+
+@media all and (min-width: 1681px) and (max-width: 1880px) {
+}
+
